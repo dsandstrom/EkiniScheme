@@ -1,8 +1,6 @@
 EkiniScheme
 ===========
 
-Ekini like scheme for Sublime Text and TextMate
-
 A dark scheme with reduced glare and improved readability.
 
 Original Gedit Scheme: http://blog.ekini.net/2009/11/19/ekini-edit-a-gedit-scheme-that-is-dark-and-suitable-for-low-light-conditions/
