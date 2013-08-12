@@ -8,10 +8,13 @@ A dark scheme with reduced glare and improved readability.
 Original Gedit Scheme: http://blog.ekini.net/2009/11/19/ekini-edit-a-gedit-scheme-that-is-dark-and-suitable-for-low-light-conditions/
 Vim Port: http://www.vim.org/scripts/script.php?script_id=3159
 
-** License
+License
+---
 
 Copyright (C) 2009 Chepi Gimenez
+
 Copyright (C) 2007 GtkSourceView team
+
 Authors: Paolo Maggi <paolo@gnome.org>
         Paolo Borelli <pborelli@gnome.org>
         Chepi Gimenez <chepi@moaidigital.com>
