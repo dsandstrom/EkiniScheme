@@ -3,7 +3,7 @@ EkiniScheme
 
 A dark scheme with reduced glare and improved readability.
 
-Original Gedit Scheme: http://blog.ekini.net/2009/11/19/ekini-edit-a-gedit-scheme-that-is-dark-and-suitable-for-low-light-conditions/
+Original gedit Scheme: http://blog.ekini.net/2009/11/19/ekini-edit-a-gedit-scheme-that-is-dark-and-suitable-for-low-light-conditions/
 Vim Port: http://www.vim.org/scripts/script.php?script_id=3159
 
 License
