@@ -26,7 +26,7 @@
 				<key>selection</key>
 				<string>#4e5d62</string>
 				<key>findHighlight</key>
-				<string>#ffe792</string>
+				<string>#fce94f</string>
 				<key>inactiveSelection</key>
 				<string>#314146</string>
 				<key>gutterForeground</key>
@@ -65,7 +65,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Constant 19syntax?</string>
+			<string>Constant Symbol</string>
 			<key>scope</key>
 			<string>constant.other.symbol.ruby</string>
 			<key>settings</key>
@@ -103,7 +103,7 @@
 			<string>constant.numeric</string>
 			<key>settings</key>
 			<dict>
-			  <key>fontStyle</key>
+				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
 				<string>#F696DB</string>
@@ -116,7 +116,7 @@
 			<string>constant.language</string>
 			<key>settings</key>
 			<dict>
-			  <key>fontStyle</key>
+				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
 				<string>#F696DB</string>
@@ -269,7 +269,7 @@
 				<key>fontStyle</key>
 				<string> italic</string>
 				<key>foreground</key>
-				<string>#A8E1FE</string>
+				<string>#7AD923</string>
 			</dict>
 		</dict>
 		<dict>
@@ -401,8 +401,8 @@
 			<string>meta.tag entity, meta.tag punctuation.definition.tag</string>
 			<key>settings</key>
 			<dict>
-			  <key>fontStyle</key>
-			  <string>bold</string>
+				<key>fontStyle</key>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#c4a000</string>
 			</dict>
@@ -699,8 +699,8 @@
 			<string>entity.name.tag.css, source.sass keyword</string>
 			<key>settings</key>
 			<dict>
-			  <key>fontStyle</key>
-			  <string></string>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#f6dd62</string>
 			</dict>
@@ -716,74 +716,6 @@
 				<string>#F1E94B</string>
 			</dict>
 		</dict>
-		<!-->
-		<dict>
-			<key>name</key>
-			<string>coffee instance var</string>
-			<key>scope</key>
-			<string>variable.other.readwrite.instance.coffee</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#9DF39F</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>coffee brace</string>
-			<key>scope</key>
-			<string>meta.brace.round.coffee,meta.brace.square.coffee</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#F6F080</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>coffee embeded</string>
-			<key>scope</key>
-			<string>punctuation.section.embedded.coffee</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#4EE161</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Coffee vars</string>
-			<key>scope</key>
-			<string>variable.assignment.coffee variable.assignment.coffee</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FFFFFF</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Coffee dots</string>
-			<key>scope</key>
-			<string>meta.delimiter.method.period.coffee</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FFAA00</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Coffee curleys</string>
-			<key>scope</key>
-			<string>meta.brace.curly.coffee</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#9DF39F</string>
-			</dict>
-		</dict>
-		-->
 		<dict>
 			<key>name</key>
 			<string>Doctype&#x2f;XML Processing</string>
@@ -796,11 +728,13 @@
 			</dict>
 		</dict>
 	</array>
-	<key>uuid</key>
-	<string>13E579BF-40AB-42E2-9EAB-0AD3EDD88532</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
 	<string>theme.dark.ekini_like</string>
+	<key>author</key>
+	<string>Darrell Sandstrom</string>
+	<key>comment</key>
+	<string>Original gedit Scheme: http:&#x2f;&#x2f;blog.ekini.net&#x2f;2009&#x2f;11&#x2f;19&#x2f;ekini-edit-a-gedit-scheme-that-is-dark-and-suitable-for-low-light-conditions&#x2f;</string>
 </dict>
 </plist>
